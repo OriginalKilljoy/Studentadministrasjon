@@ -31,28 +31,28 @@ namespace Studentadministrasjon
         Del 2: Hovedprogram (Main)
         I hovedprogrammet, gjør følgende:
 
-        Opprett minst to instanser av hver klasse (Student, Fag, Karakter).
-        Sett verdier for egenskapene.
-        Kall SkrivUtInfo()-metoden for hver klasse for å skrive ut informasjonen.
+        [x]Opprett minst to instanser av hver klasse (Student, Fag, Karakter).
+        [x]Sett verdier for egenskapene.
+        [x]Kall SkrivUtInfo()-metoden for hver klasse for å skrive ut informasjonen.
 
 
         Del 3: Ekstra funksjonalitet
         Legg til flere fag:
 
-        Opprett en liste av fag og legg til minst tre forskjellige fag.
-        Legg til disse fagene i Student-objektene som studentene tar.
+        [x]Opprett en liste av fag og legg til minst tre forskjellige fag.
+        [x]Legg til disse fagene i Student-objektene som studentene tar.
 
         Legg til karakterer:
 
-        Legg til karakterer for studentene i de forskjellige fagene de tar.
-        Skriv ut karakterinformasjonen.
+        [x]Legg til karakterer for studentene i de forskjellige fagene de tar.
+        [x]Skriv ut karakterinformasjonen.
 
         Gjennomsnittskarakter:
 
-        Implementer en metode i Student-klassen som beregner gjennomsnittskarakteren for studenten basert på karakterene de har fått.
+        [x]Implementer en metode i Student-klassen som beregner gjennomsnittskarakteren for studenten basert på karakterene de har fått.
 
         Studiepoeng:
 
-        Implementer en metode i Student-klassen som beregner totalt antall studiepoeng basert på fagene studenten tar.
+        [x]Implementer en metode i Student-klassen som beregner totalt antall studiepoeng basert på fagene studenten tar.
     }
 }
